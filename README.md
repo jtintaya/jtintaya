@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-**Joel Tintaya** Web Developer Frontend / Web Designer / Graphic Designer / SEO Auditor.
+**Joel Tintaya** Web Developer Frontend / Web Designer / Graphic Designer / SEO.
 
 Here are some ideas to get you started:
 
